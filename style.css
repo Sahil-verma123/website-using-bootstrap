@@ -1,0 +1,51 @@
+.jumbotron{
+    background:#333 url(./images/gym11.jpg) center center/cover ;
+    
+    color: white;
+    border-bottom: 5px whitesmoke solid;
+}
+.jumbotron-main{
+    padding: 5px 60px 40px 60px;
+}
+
+.box{
+    text-align: center;
+}
+
+.sectiona{
+    background-color: rgb(41, 40, 54);
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+
+.img-full{
+    width: 80%;
+    border-radius: 10%;
+}
+
+.last{
+    text-align: center;
+}
+
+.l-section{
+    text-align: center;
+    background-color: gray;
+    color: wheat;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+.jumbotron-sub{
+    padding: 0 60px 40px 60px;
+}
+
+.icon{
+    text-align: center;
+}
+
+
